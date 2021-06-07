@@ -1,4 +1,4 @@
-module github.com/pinpoint-apm/gopinpoint
+module github.com/yjqg6666/gopinpoint
 
 go 1.15
 
