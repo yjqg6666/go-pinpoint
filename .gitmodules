@@ -1,0 +1,4 @@
+[submodule "proto"]
+	path = proto
+	url = https://github.com/yjqg6666/pinpoint-grpc-idl.git
+	branch = go-2.2.2
